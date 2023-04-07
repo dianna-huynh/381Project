@@ -16,8 +16,9 @@ tags:
 <p>This video consists of an analysis that includes the joint angles and stance during the set-up, the return, and the follow through of the smash return.</p>
 
 <video width="320" height="240" controls>
-  <source src="assets/images/BadmintonReceive.mp4" type="video/mp4">
+    <source src="/assets/images/BadmintonReceive.mp4" type=video/mp4>
     </video>
+    
    
 
 <a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video</a>
