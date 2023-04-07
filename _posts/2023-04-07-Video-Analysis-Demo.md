@@ -15,20 +15,7 @@ tags:
 <h2>Here is a video analysis of a badminton smash return completed by DartFish Pro.</h2>
 <p>This video consists of an analysis that includes the joint angles and stance during the set-up, the return, and the follow through of the smash return.</p>
 
-<video width="320" height="240" controls autoplay muted loop playsinline>
-    <source src="/assets/images/BadmintonReceive.mp4" type="video/mp4">
-    </video>
-    
- <video width="320" height="240" controls>
-    <source src="BadmintonReceive.mp4" type="video/mp4">
-    </video>
-    
-<video width="320" height="240" controls>
-  <source src="BadmintonReceive.mp4" type="video/mp4">
-  <source src="BadmintonReceive.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
+<p> Watch the video here!</p>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=AuefeFLahIY" target="_blank">
  <img src="http://img.youtube.com/vi/AuefeFLahIY/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
