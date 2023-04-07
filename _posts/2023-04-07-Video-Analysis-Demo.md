@@ -29,9 +29,6 @@ tags:
 Your browser does not support the video tag.
 </video>
 
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=AuefeFLahIY)
-   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AuefeFLahIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video</a>
