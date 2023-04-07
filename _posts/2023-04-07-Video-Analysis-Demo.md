@@ -19,6 +19,11 @@ tags:
     <source src="/assets/images/BadmintonReceive.mp4" type=video/mp4>
     </video>
     
+ <video width="320" height="240" controls>
+    <source src="BadmintonReceive.mp4" type=video/mp4>
+    </video>
+ 
+    
    
 
 <a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video</a>
