@@ -23,7 +23,9 @@ tags:
     <source src="BadmintonReceive.mp4" type="video/mp4">
     </video>
  
-    
+ <video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/dianna-huynh/381Project/blob/master/assets/images/BadmintonReceive.mp4">
+</video>
    
 
 <a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video</a>
