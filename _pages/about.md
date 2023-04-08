@@ -8,6 +8,7 @@ title: "About"
 <p>The purpose of this website is to help me display various tools and programs that I have learned to use over the course of this semester.</p>
 
 <p>In the course we went over:
+  ### Ordered List
 - Command Line Usage
 - Use of SSH keys
 - Version Control
