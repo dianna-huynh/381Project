@@ -16,4 +16,6 @@ This Excel sheet consists of data from my past running workouts dating from Sept
 
 https://raw.githubusercontent.com/MyBlogPage/MyBlogPage.github.io/assets/images/RunningData.xlsx
 
+https://raw.githubusercontent.com/dianna-huynh/381Project/master/assets/images/RunningData.xlsx
+
 assets/images/RunningData.xlsx
