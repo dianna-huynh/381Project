@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Dianna Huynh"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile.jpg"
   bio    : "I'm a 4th Year student at the University of Calgary pursuing a Kinesiology degree!"
   links:
     - label: "Website"
