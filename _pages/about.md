@@ -7,24 +7,25 @@ title: "About"
 
 <p>The purpose of this website is to help me display various tools and programs that I have learned to use over the course of this semester.</p>
 
-<p>In the course we went over:
-  ### Ordered List
-- Command Line Usage
-- Use of SSH keys
-- Version Control
-- GitHub Repositories
-- Markdown Language
-- HTML Language
-- Scratch MIT
--  Python
--  Excel
-- Video Analysis with DartFish Pro
-- Various Kinesiology Tools (Eg. My Jump, VR)
-- Fit Files Analysis (eg. Using Golden Cheetah)
-</p>
+<p>In the course we went over:</p>
+<ul>
+  <li>Command Line Usage</li>
+  <li>Use of SSH keys</li>
+  <li>Version Control</li>
+  <li>GitHub Repositories</li>
+  <li>Markdown Language</li>
+  <li>HTML Language</li>
+  <li>Scratch MIT</li>
+  <li>Python</li>
+  <li>Excel</li>
+  <li>Video Analysis with DartFish Pro</li>
+  <li>Various Kinesiology Tools (Eg. My Jump, VR)</li>
+  <li>Fit Files Analysis (eg. Using Golden Cheetah)</li>
+</ul>
 
-<p>This website covers demonstrations of:
-- Excel
-- DartFish Pro
-- Effective use of Markdown and HTML language
-</p>
+<p>This website covers demonstrations of:</p>
+<ul>
+  <li>Excel</li>
+  <li>DartFish Pro</li>
+  <li>Effective use of Markdown and HTML language</li>
+</ul>
