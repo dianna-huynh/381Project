@@ -27,3 +27,5 @@ tags:
 <a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video Link</a>
 
 [Dartfish Support](https://www.dartfish.com/support)
+
+<iframe src="https://www.dartfish.tv/Embed?CR=p191093c538407m7983666&VW=480&VH=854&sh=li&aid=2c88868f-912d-41ff-8cdf-c4e0db41e115" width="480" height="869" frameborder="0" allowfullscreen ></iframe>
