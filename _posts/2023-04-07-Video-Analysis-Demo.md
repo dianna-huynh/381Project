@@ -21,8 +21,4 @@ tags:
 
 {% include video id="AuefeFLahIY" provider="youtube" %}
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AuefeFLahIY" target="_blank">
- <img src="http://img.youtube.com/vi/AuefeFLahIY/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
-</a>
-
-<a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video</a>
+<a href="https://youtu.be/gwDNZsEEvJ4?t=20">Original YouTube Video Link</a>
