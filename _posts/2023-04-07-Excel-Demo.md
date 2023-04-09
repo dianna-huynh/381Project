@@ -11,7 +11,7 @@ tags:
   - Statistics
 ---
 
-<p>[Click Here](https://raw.githubusercontent.com/dianna-huynh/381Project/master/assets/images/Dianna-Running-Workouts.xlsx) and you will find an Excel sheet demonstrating the skills that I have learned in class.</p>
+[Click Here](https://raw.githubusercontent.com/dianna-huynh/381Project/master/assets/images/Dianna-Running-Workouts.xlsx) and you will find an Excel sheet demonstrating the skills that I have learned in class.
 <p>This Excel sheet consists of data from my past running workouts dating from September 2022 to April 2023.</p>
 
 <p>The running data includes data such as the date the exercise was performed, the duration, distance, average speed, total and active energy expenditure, maximum heart rate, step count, and step cadence.</p>
@@ -28,23 +28,33 @@ tags:
 <h3> Summary </h3>
 <h4> Histograms </h4>
 <p> The following are frequency histograms for total and active energy expenditure. </p>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/TEE-Histogram" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/TEE-Histogram.jpg" alt="">
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/AEE-Histogram" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/AEE-Histogram.jpg" alt="">
 
 <h4> Scatter Graphs with Line of Best Fit </h4>
 <p> The following are scatter graphs comparing various measurements with corresponding correlation coefficients and Paired T-Test values </p>
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceSpeed" alt="">
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceSpeed.jpg" alt="">
 
 |      r      |     r<sup>2</sup>   |      Paired T-Test       |
 | ----------- | ------------------- | ------------------------ |
 |    0.514    |        0.264        |  8.56 x 10<sup>-16</sup> |
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR.png" alt="">
 
+|      r      |     r<sup>2</sup>   |      Paired T-Test       |
+| ----------- | ------------------- | ------------------------ |
+|    0.468    |        0.219        |  8.89 x 10<sup>-50</sup> |
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceTEE" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceTEE.png" alt="">
 
+|      r      |     r<sup>2</sup>   |      Paired T-Test       |
+| ----------- | ------------------- | ------------------------ |
+|    0.945    |        0.893        |  9.79 x 10<sup>-17</sup> |
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Time-Distance" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Time-Distance.jpg" alt="">
 
+|      r      |     r<sup>2</sup>   |      Paired T-Test       |
+| ----------- | ------------------- | ------------------------ |
+|    0.868    |        0.753        |  5.54 x 10<sup>-19</sup> |
