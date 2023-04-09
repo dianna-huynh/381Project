@@ -27,7 +27,7 @@ tags:
 
 <h3> Summary </h3>
 <h4> Histograms </h4>
-<p> The following are frequency hisotgrams for total and active energy expenditure. </p>
+<p> The following are frequency histograms for total and active energy expenditure. </p>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/TEE-Histogram" alt="">
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/AEE-Histogram" alt="">
@@ -36,8 +36,15 @@ tags:
 <p> The following are scatter graphs comparing various measurements with corresponding correlation coefficients and Paired T-Test values </p>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceSpeed" alt="">
 
+| r             | 0.514          |
+| r^2^          | 0.264          |
+| Paired T-Test | 8.56 x 10^-16^ |
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR" alt="">
+
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceTEE" alt="">
 
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Time-Distance" alt="">
+
