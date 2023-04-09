@@ -27,7 +27,7 @@ tags:
 
 <h3> Summary </h3>
 <h4> Histograms </h4>
-<p> The following are frequency histograms for total and active energy expenditure. </p>
+<p> The following are frequency histograms for total and active energy expenditure (kJ). </p>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/TEE-Histogram.jpg" alt="">
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/AEE-Histogram.jpg" alt="">
@@ -35,24 +35,28 @@ tags:
 <h4> Scatter Graphs with Line of Best Fit </h4>
 <p> The following are scatter graphs comparing various measurements with corresponding correlation coefficients and Paired T-Test values </p>
 
+<h5> Distance (km) vs Speed (km/hr) </h5>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceSpeed.jpg" alt="">
 
 |      r      |     r<sup>2</sup>   |      Paired T-Test       |
 | ----------- | ------------------- | ------------------------ |
 |    0.514    |        0.264        |  8.56 x 10<sup>-16</sup> |
 
+<h5> Distance (km) vs Maximum Heart Rate (bpm) </h5>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR.png" alt="">
 
 |      r      |     r<sup>2</sup>   |      Paired T-Test       |
 | ----------- | ------------------- | ------------------------ |
 |    0.468    |        0.219        |  8.89 x 10<sup>-50</sup> |
 
+<h5> Distance (km) vs Total Energy Expenditure (TEE) </h5>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceTEE.png" alt="">
 
 |      r      |     r<sup>2</sup>   |      Paired T-Test       |
 | ----------- | ------------------- | ------------------------ |
 |    0.945    |        0.893        |  9.79 x 10<sup>-17</sup> |
 
+<h5> Time (mins) vs Distance (km) </h5>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Time-Distance.jpg" alt="">
 
 |      r      |     r<sup>2</sup>   |      Paired T-Test       |
