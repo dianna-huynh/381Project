@@ -11,7 +11,7 @@ The addition of new images, videos, or files (such as excel) should be added to 
 For more information, [click here](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-image-standard/).
 
 # Adding Gallery Images
-For the addition of images in a gallery, I followed [this](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/) tutorial
+For the addition of images in a gallery, I followed [this](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/) tutorial.
 
 # Support
 If more instructions are needed, please go to the creator of this theme’s [website](https://mmistakes.github.io/minimal-mistakes/)
