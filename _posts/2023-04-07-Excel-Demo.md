@@ -40,6 +40,12 @@ tags:
 | r^2^          | 0.264          |
 | Paired T-Test | 8.56 x 10^-16^ |
 
+OR
+
+|      r      |     r^2^    |  Paired T-Test  |
+| ----------- | ----------- | --------------- |
+|    0.514    |    0.264    |  8.56 x 10^-16^ |
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR" alt="">
 
 
