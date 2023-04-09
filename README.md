@@ -1,27 +1,27 @@
-# Minimal Mistakes remote theme starter
+# Welcome
+This is my website created to demonstrate my skills learned in KNES 381.  
+The theme that I used is the jekyll theme “Minimal Mistakes”.
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+# Adding New Posts
+Addition of a new post can be done by adding a file to “ _posts”. The file name should be listed as the following: “YEAR-MONTH-DAY-Title.md”.   
 
-Contains basic configuration to get you a site with:
+This is the recommended front matter:   
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+# Adding New Images
+The addition of new images, videos, or files (such as excel) should be added to “assets/images”.
 
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+# Support
+If more instructions are needed, please go to the creator of this theme’s [website](https://mmistakes.github.io/minimal-mistakes/)
