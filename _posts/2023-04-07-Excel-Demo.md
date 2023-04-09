@@ -36,15 +36,9 @@ tags:
 <p> The following are scatter graphs comparing various measurements with corresponding correlation coefficients and Paired T-Test values </p>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceSpeed" alt="">
 
-| r             | 0.514          |
-| r^2^          | 0.264          |
-| Paired T-Test | 8.56 x 10^-16^ |
-
-OR
-
-|      r      |     r^2^    |  Paired T-Test  |
-| ----------- | ----------- | --------------- |
-|    0.514    |    0.264    |  8.56 x 10^-16^ |
+|      r      |     r<sup>2</sup>   |      Paired T-Test       |
+| ----------- | ------------------- | ------------------------ |
+|    0.514    |        0.264        |  8.56 x 10<sup>-16</sup> |
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DistanceHR" alt="">
 
