@@ -14,4 +14,4 @@ For more information, [click here](https://mmistakes.github.io/minimal-mistakes/
 For the addition of images in a gallery, I followed [this](https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/) tutorial.
 
 # Support
-If more instructions are needed, please go to the creator of this theme’s [website](https://mmistakes.github.io/minimal-mistakes/)
+If more instructions are needed, please go to the creator of this theme’s [website](https://mmistakes.github.io/minimal-mistakes/).
