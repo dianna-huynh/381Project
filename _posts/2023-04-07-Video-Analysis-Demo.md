@@ -2,7 +2,7 @@
 title: "Video Analysis Demo"
 date: 2023-04-07T12:00:00-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - Video
   - Analysis
