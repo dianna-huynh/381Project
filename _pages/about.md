@@ -23,7 +23,7 @@ title: "About"
   <li>Fit Files Analysis (eg. Using Golden Cheetah)</li>
 </ul>
   
-[Here](https://scratch.mit.edu/projects/801553989/) is the link to my Scratch maze
+[Here](https://scratch.mit.edu/projects/801553989/) is the link to my Scratch maze.
 
 <p>This website covers demonstrations of:</p>
 <ul>
