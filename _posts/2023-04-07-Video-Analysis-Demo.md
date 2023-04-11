@@ -12,8 +12,6 @@ tags:
   - Return
 
 ---
-
-
 <h2>Here is a video analysis of a badminton smash return completed on Dartfish Pro.</h2>
 
 <p> Watch the video here!</p>
