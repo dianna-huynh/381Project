@@ -15,7 +15,7 @@ title: "About"
   <li>GitHub Repositories</li>
   <li>Markdown Language</li>
   <li>HTML Language</li>
-  <li>[Scratch MIT](https://scratch.mit.edu/projects/801553989/)</li>
+  <li>Scratch MIT</li>
   <li>Python</li>
   <li>Excel</li>
   <li>Video Analysis with DartFish Pro</li>
